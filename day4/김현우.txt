@@ -1,0 +1,2 @@
+	printf(%c\n, ((ptr+3)+3)); //t
+	printf(%c\n, ((ptr+5)+4)); //n
